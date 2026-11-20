@@ -1,0 +1,31 @@
+body {
+  background-color: #dcb5ff;
+}
+header h1 {
+  text-align: center;
+  background-color: #77529e;
+  border-radius: 10px;
+  margin: auto;
+  padding: 20px 20px;
+  font-size: xx-large;
+}
+
+.nav ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+  background-color: #a5bdfd;
+  overflow: hidden;
+  display: flex;
+  border-radius: 10px;
+}
+.nav a {
+  color: black;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+}
+.nav a:hover {
+  background-color: #789afa;
+}
